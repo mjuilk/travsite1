@@ -7,6 +7,6 @@ banner:
   title : "Traverse"
   content : "We are a newly started theatre organisation based in Lund. We focus mainly on new and original projects, along with workshops that provide a creative outlet."
   button:
-    enable : true
+    enable : false
     label : "Our Projects"
     link : "#services"

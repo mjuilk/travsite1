@@ -106,7 +106,7 @@ link = "https://www.instagram.com/traver.se/"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/channel/UCxP6mE5BHKqluneKLdSJH4g"
 
 ################################ English Language ########################
 [Languages.en]

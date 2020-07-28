@@ -1,17 +1,15 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/anders.jpg
-  image_webp : images/about/anders.webp
-  title : Kustrum 2020 - Anders Larsson
-  content : "KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM "
+  image : images/about/kustrum.jpg
+  image_webp : images/about/kustrum.webp
+  title : Main Project - Kustrum
+  content : "Kustrum is an original project playing on themes of finding meaning in an finite existence.
+  It is planned to be a multimedial production in one act consisting of voices, poems, visuals, movements, songs, and a live
+band. Kustrum is created by Anders E Larsson and directed by Elliot Ljungdahl, and
+plans to open in November. For more information or if you are interested in joining, please contact us!"
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : "Contact us :"
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : "contact.stardustproductions@gmail.com"

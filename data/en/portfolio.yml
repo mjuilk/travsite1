@@ -42,11 +42,3 @@ portfolio:
       categories : ["In My Head"]
       content : ""
       link : "#"
-      
-    # portfolio item loop
-    - name : "2019"
-      image : images/portfolio/bts1.jpg
-      image_webp : images/portfolio/bts2.webp
-      categories : ["In My Head", "Behind the Scenes"]
-      content : ""
-      link : "#"
