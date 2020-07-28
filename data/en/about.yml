@@ -1,0 +1,10 @@
+############################# About ###################################
+about:
+  enable : false
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Kustrum"
+  content : "We are a newly started theatre organisation based in Lund. We focus mainly on new and original projects, along with workshops that provide a creative outlet."
+  button:
+    enable : true
+    label : "Our Projects"
+    link : "#services"

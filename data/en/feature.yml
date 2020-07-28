@@ -1,0 +1,17 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/anders.jpg
+  image_webp : images/about/anders.webp
+  title : Kustrum 2020 - Anders Larsson
+  content : "KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM KUSTRUM "
+  feature_item : 
+      # feature item loop
+    - title : SEO Optimized
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

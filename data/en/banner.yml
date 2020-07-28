@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/banner.webp"
+  bg_image : "images/backgrounds/banner.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Traverse"
+  content : "We are a newly started theatre organisation based in Lund. We focus mainly on new and original projects, along with workshops that provide a creative outlet."
+  button:
+    enable : true
+    label : "Our Projects"
+    link : "#services"

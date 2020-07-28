@@ -1,0 +1,52 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Gallery
+  portfolio_item :
+    # portfolio item loop
+    - name : Barbed Speech
+      image : images/portfolio/avery1.jpg
+      image_webp : images/portfolio/avery1.webp
+      categories : ["In My Head"]
+      content : ""
+      link : "#"
+      
+    # portfolio item loop
+    - name : All of the Time
+      image : images/portfolio/avery2.jpg
+      image_webp : images/portfolio/avery2.webp
+      categories : ["In My Head"]
+      content : ""
+      link : "#"
+      
+    # portfolio item loop
+    - name : Crescent Escape
+      image : images/portfolio/avery3.jpg
+      image_webp : images/portfolio/avery3.webp
+      categories : ["In My Head"]
+      content : ""
+      link : "#"
+      
+    # portfolio item loop
+    - name : The Game of Gravity
+      image : images/portfolio/averyDog1.jpg
+      image_webp : images/portfolio/averyDog1.webp
+      categories : ["In My Head"]
+      content : ""
+      link : "#"
+      
+    # portfolio item loop
+    - name : Conquering the Darkness
+      image : images/portfolio/averyDog2.jpg
+      image_webp : images/portfolio/averyDog2.webp
+      categories : ["In My Head"]
+      content : ""
+      link : "#"
+      
+    # portfolio item loop
+    - name : "2019"
+      image : images/portfolio/bts1.jpg
+      image_webp : images/portfolio/bts2.webp
+      categories : ["In My Head", "Behind the Scenes"]
+      content : ""
+      link : "#"
