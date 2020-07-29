@@ -73,7 +73,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logoPlaceholder.jpg"
+logo = "images/traverse0.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
@@ -85,7 +85,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logoPlaceholder.jpg"
+preloader = "images/traverse2.png"
 
 # google map
 #[params.map]
