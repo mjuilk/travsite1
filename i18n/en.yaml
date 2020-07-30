@@ -12,14 +12,14 @@
   translation: Author's posts
 - id: all
   translation: All
-- id: about
-  translation: About Us
+- id: feature
+  translation: Main Project
 - id: services
-  translation: Service
+  translation: Current Projects
 - id: portfolio
-  translation: Portfolio
+  translation: Gallery
 - id: team
-  translation: Team
+  translation: Board
 - id: pricing
   translation: Pricing
 - id: blog

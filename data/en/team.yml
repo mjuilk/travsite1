@@ -5,29 +5,36 @@ team:
   team_member :
     # team member loop
     - name : Kelsey Danks
-      image_webp : images/team/teamPlaceholder.webp
-      image : images/team/teamPlaceholder.jpg
+      image_webp : images/team/teamBlack.webp
+      image : images/team/teamBlack.png
       designation : Chairman
-      content : With a long history and passion for the performing arts, Kelsey has
+      content : 
 
         
     # team member loop
     - name : Jon Lim
-      image_webp : images/team/teamPlaceholder.webp
-      image : images/team/teamPlaceholder.jpg
+      image_webp : images/team/teamBlack.webp
+      image : images/team/teamBlack.png
       designation : Vice-Chairman
-      content : With an interest in acting since high school, Jon has 
+      content : 
         
     # team member loop
     - name : Edda Ahrent
-      image_webp : images/team/teamPlaceholder.webp
-      image : images/team/teamPlaceholder.jpg
+      image_webp : images/team/teamBlack.webp
+      image : images/team/teamBlack.png
       designation : Secretary
-      content : edda edda edda edda edda edda edda edda edda edda edda edda edda edda edda edda edda edda edda edda edda edda edda 
+      content :
         
     # team member loop
     - name : Lovisa Holmberg
-      image_webp : images/team/teamPlaceholder.webp
-      image : images/team/teamPlaceholder.jpg
+      image_webp : images/team/teamBlack.webp
+      image : images/team/teamBlack.png
       designation : Treasurer
+      content : 
+
+    # team member loop
+    - name : Anders Larsson
+      image_webp : images/team/teamBlack.webp
+      image : images/team/teamBlack.png
+      designation : Technical Director
       content : 
