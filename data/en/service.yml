@@ -6,20 +6,36 @@ service:
     # service item loop
     - name : They Had All Gone
       icon : ti-angle-double-down # themify icon pack : https://themify.me/themify-icons
-      content : "They Had All Gone is a web series in development. It asks the question, 'What would happen if every man on Earth disappeared?' Idea and script by Kelsey Danks, it is currently in the workshopping phase. Interested in participating? Click here!"
+      content : "They Had All Gone is a web series in development. It asks the question, 'What would happen if every man on Earth disappeared?' Idea and script by Kelsey Danks, it is currently in the workshopping phase.
+      Interested in participating?"
+      button:
+        enable : true
+        label : "Click here!"
+        link : "#contact"
       
     # service item loop
     - name : Spectacular Spectacular
       icon : ti-angle-double-down # themify icon pack : https://themify.me/themify-icons
       content : "Spectacular Spectacular is a podcast concerning all things theatre. Edda Ahrent, the host, has conversations ranging from personal experiences in the theatre to reviews on popular shows.
-      Interested in participating? Click here!"
+      Interested in participating?"
+      button:
+        enable : true
+        label : "Click here!"
+        link : "#contact"
       
     # service item loop
     - name : Summer Education
       icon : ti-angle-double-down # themify icon pack : https://themify.me/themify-icons
-      content : "Currently offering classes or clubs for kids and teenagers and classes for adults in drama. Interested in participating? Click here!"
-
+      content : "Currently offering classes or clubs for kids and teenagers and classes for adults in drama. Interested in participating?"
+      button:
+        enable : true
+        label : "Click here!"
+        link : "#contact"
     # service item loop
     - name : Have an idea for a project?
       icon : ti-angle-double-down # themify icon pack : https://themify.me/themify-icons
       content : "Become a member and pitch an idea for a project!"
+      button:
+        enable : true
+        label : "Click here!"
+        link : "#contact"

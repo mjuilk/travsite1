@@ -25,6 +25,11 @@
 					</div>
 					<h3>{{ .name | markdownify }}</h3>
 					<p>{{ .content | markdownify }}</p>
+					{{ if .button.enable }}
+					{{ with .button }}
+					<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+					{{ end }}
+					{{ end }}
 				</div>
 			</article>
 			{{"<!-- End Single Service Item -->" | safeHTML }}
