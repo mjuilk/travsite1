@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "traversepro.netlify.app"
+baseURL = "traverseproductions.se"
 title = "Traverse"
 theme = "meghna-hugo"
 # post pagination
