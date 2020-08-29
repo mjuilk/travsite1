@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/kustrumm.jpg
-  image_webp : images/about/kustrumm.webp
+  image : images/about/kustrum.jpg
+  image_webp : images/about/kustrum.webp
   title : Main Project - Kustrum
   content : "Kustrum is an original project playing on themes of finding meaning in an finite existence.
   It is planned to be a multimedial production in one act consisting of voices, poems, visuals, movements, songs, and a live
