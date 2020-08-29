@@ -24,14 +24,6 @@ service:
         link : "#contact"
       
     # service item loop
-    - name : Summer Education
-      icon : ti-angle-double-down # themify icon pack : https://themify.me/themify-icons
-      content : "Currently offering classes or clubs for kids and teenagers and classes for adults in drama. Interested in participating?"
-      button:
-        enable : true
-        label : "Click here!"
-        link : "#contact"
-    # service item loop
     - name : Have an idea for a project?
       icon : ti-angle-double-down # themify icon pack : https://themify.me/themify-icons
       content : "Become a member and pitch an idea for a project!"
