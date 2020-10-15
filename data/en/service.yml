@@ -22,6 +22,16 @@ service:
         enable : true
         label : "Click here!"
         link : "#contact"
+
+    # service item loop
+    - name : Education
+      icon : ti-angle-double-down # themify icon pack : https://themify.me/themify-icons
+      content : "We provide workshops for children and adults in stagecraft and creative writing.
+Do you want us to host a class or work at your school? Contact us!"
+      button:
+        enable : true
+        label : "Click here!"
+        link : "#contact"
       
     # service item loop
     - name : Have an idea for a project?
