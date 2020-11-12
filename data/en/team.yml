@@ -32,7 +32,7 @@ team:
       content : 
 
     # team member loop
-    - name : Anders Larsson
+    - name : Anders E Larsson
       image_webp : images/team/teamBlack.webp
       image : images/team/teamBlack.png
       designation : Technical Director
