@@ -9,14 +9,6 @@ team:
       image : images/team/teamBlack.png
       designation : Chairman
       content : 
-
-        
-    # team member loop
-    - name : Jon Lim
-      image_webp : images/team/teamBlack.webp
-      image : images/team/teamBlack.png
-      designation : Vice-Chairman
-      content : 
         
     # team member loop
     - name : Edda Ahrent
@@ -24,7 +16,14 @@ team:
       image : images/team/teamBlack.png
       designation : Secretary
       content :
-        
+
+    # team member loop
+    - name : Jeanna Gullstrand
+      image_webp : images/team/teamBlack.webp
+      image : images/team/teamBlack.png
+      designation : Head of Marketing
+      content : 
+
     # team member loop
     - name : Lovisa Holmberg
       image_webp : images/team/teamBlack.webp
